@@ -7,5 +7,5 @@ message = "Hello Python Crash Course world!"
 print(message)
 
 #Task 3
-message = "Hello Python Crash Course reader!"
+mesage = "Hello Python Crash Course reader!"
 print(mesage)
